@@ -1,2 +1,0 @@
-# PracticalTest
-first java test
